@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amir Faysal</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Nirog health Pluse ](https://www.niroghealthplus.com/) [Caresee](http://careseebd.com/)
+- 🔭 I’m currently working on [Nirog health Pluse ](https://www.niroghealthplus.com/), [Caresee](http://careseebd.com/)
 
 - 🌱 I’m currently learning **Advance Data structure , Algorithm**
 
