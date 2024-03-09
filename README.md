@@ -15,6 +15,13 @@
 
 ## Professional Experience
 
+### Project Manager at RENIX Lab Ltd, Narayanganj, BD (2023 - 2024)
+
+- Collaborated with the team to contribute to the development of web solutions.
+- Sought guidance from senior developers to address challenging problems.
+- Conducted unit testing to maintain code quality and resolve bugs.
+- Adapted to evolving project requirements and technological changes.
+
 ### Product Manager at ThinkyStorm, Dhaka, BD (2021 - 2023)
 
 - Led efforts to improve existing products based on customer feedback and evaluations.
@@ -25,12 +32,6 @@
 - Developed comprehensive project plans, managed cross-functional teams, and ensured effective communication with stakeholders.
 - Tracked project milestones and timelines, and evaluated project performance for continuous improvement.
 
-### Project Manager at RENIX Lab Ltd, Narayanganj, BD (2023 - 2024)
-
-- Collaborated with the team to contribute to the development of web solutions.
-- Sought guidance from senior developers to address challenging problems.
-- Conducted unit testing to maintain code quality and resolve bugs.
-- Adapted to evolving project requirements and technological changes.
 
 ### Junior Developer at LSKIT, Khulna, BD (2021)
 
