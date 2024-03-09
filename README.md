@@ -5,22 +5,89 @@
 
 - 🌱 I’m currently learning **Advance Data structure , Algorithm**
 
-- 👯 I’m looking to collaborate on [Edufixup](https://edufixup.com/ ) [Nirog health Pluse ] (https://www.niroghealthplus.com/), [Caresee](http://careseebd.com/) [Renix ltd]([http://careseebd.com/](https://www.renixlaboratories.com.bd/)
-
-- 👨‍💻 All of my projects are available at [https://amir-faysal.com/](https://amir-faysal.com/)
+- 👯 I’m looking to collaborate on [Edufixup](https://edufixup.com/), [Nirog health Pluse](https://www.niroghealthplus.com/), [Caresee](http://careseebd.com/), [Renix ltd](https://www.renixlaboratories.com.bd/)
 
 - 📫 How to reach me **amirfaysal0471@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-Lztn03erhQ34trkP8lY8gzk639jQ7ld/view?usp=sharing](https://drive.google.com/file/d/1-Lztn03erhQ34trkP8lY8gzk639jQ7ld/view?usp=sharing)
+- 📄 Know about my experiences [Know about my experiences](https://drive.google.com/drive/folders/1qddygoUxIpGy65W5USrPm6rkxt4ILuKI?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny !**
+<h3 align="left">PROFESSIONAL PROJECT EXPERIENCE</h3>
+
+<h4>CARESEE BD | WEBSITE | GITHUB (PRIVATE, PRODUCTION) August, 2023</h4>
+<p>
+A React-based Vision Therapy Web Application<br>
+Amblyopia or ‘Lazy Eye’ therapy.<br>
+Computer Vision Syndrome.<br>
+After Refractive Surgeries.<br>
+Technologies: React-Js, Redux, JavaScript, Canvas, Tailwind, Node-JS, Express, Mongoose, MongoDB<br>
+Payment Gateway: Stripe.<br>
+WEBSITE: <a href="http://careseebd.com/">http://careseebd.com/</a>
+</p>
+
+<h4>RENIX LABORATORIES LT D. | WEBSITE | GITHUB (PRIVATE, PRODUCTION) July, 2023</h4>
+<p>
+A React-based E-commerce Platform.<br>
+Provide Effective Health-care Solutions.<br>
+In addition to Manufacturing Herbal Medicine. Renix Unani Laboratories Ltd. is dedicated to providing customers with safe, effective & high-quality health-care solutions.<br>
+Technologies: React-JS, Redux, JavaScript, Tailwind, Node-JS, Express, Mongoose, MongoDB<br>
+Payment Gateway: SSLCommerz.<br>
+WEBSITE: <a href="https://www.renixlaboratories.com.bd/">https://www.renixlaboratories.com.bd/</a>
+</p>
+
+<h4>EDU FIXUP | WEBSITE | GITHUB (PRIVATE, PRODUCTION) November, 2022</h4>
+<p>
+A React-based Learning Platform.<br>
+User-friendly platform for Students, Teachers, and lifelong learners.<br>
+This platform provides various resources including Lesson plans, Study Materials & Professional Guidance<br>
+Technologies: React-Js, Redux, JavaScript, Canvas, Tailwind, Node-JS, Express, Mongoose, MongoDB<br>
+Payment Gateway: Surjo Pay.<br>
+WEBSITE: <a href="https://edufixup.com/">https://edufixup.com/</a>
+</p>
+
+<h4>NIROG HEALTH PLUS | WEBSITE | GITHUB (PRIVATE, PRODUCTION) October, 2023</h4>
+<p>
+A React-based E-Commerce Platform.<br>
+Provide Effective Health-care Solutions including OTC Medicine, Non-OTC Medicine & Prescription Upload.<br>
+This platform provides various resources including Seller, Buyer & Administration.<br>
+Technologies: React-Js, JavaScript, Tailwind, Node-JS, Express, Mongoose, MongoDB<br>
+Payment Gateway: SSLCommerz.<br>
+WEBSITE: <a href="https://niroghealthplus.com/">https://niroghealthplus.com/</a>
+</p>
+
+
+
+<h3 align="left">MY SKILLS & EXPERTISE</h3>
+<h4 align="left">TECHNICAL SKILLS</h4>
+<p align="left">
+Languages: 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="20" height="20"/> JavaScript (ES5 & ES6), 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="20" height="20"/> C/C++, 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="20" height="20"/> Java, 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="20" height="20"/> PHP, 
+Node.js, 
+Laravel (Back-End), 
+HTML & CSS.<br>
+
+Library/Frameworks: 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="20" height="20"/> React.js, 
+<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="NEXT.js" width="20" height="20"/> NEXT.js, 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="20" height="20"/> Redux, 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="20" height="20"/> Express.js, 
+Mongoose, 
+Tailwind.<br>
+
+Databases: 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="20" height="20"/> MongoDB, 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20"/> MySQL, 
+Firebase.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/amir-faysal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amir-faysal/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/amirfaysal047/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/amirfaysal047/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/amir__faysal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/amir__faysal/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amir-faysal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amir-faysal/" height="30" width="40" /></a>
+<a href="https://fb.com/amirfaysal047/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/amirfaysal047/" height="30" width="40" /></a>
+<a href="https://instagram.com/amir__faysal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/amir__faysal/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
