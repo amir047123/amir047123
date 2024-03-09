@@ -11,7 +11,8 @@
 
 - 📄 Know about my experiences [Know about my experiences](https://drive.google.com/drive/folders/1qddygoUxIpGy65W5USrPm6rkxt4ILuKI?usp=sharing)
 
-- ⚡ Fun fact **I think I am Funny !**
+- ⚡ Fun fact **I think I am Funny!** But sometimes the code disagrees.
+
 <h3 align="left">PROFESSIONAL PROJECT EXPERIENCE</h3>
 
 <h4>CARESEE BD | GITHUB (PRIVATE, PRODUCTION) August, 2023</h4>
