@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amir Faysal</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Nirog health Pluse ](https://www.niroghealthplus.com/), [Caresee](http://careseebd.com/)
+- 🔭 I’m currently working on [Drive Shikhun]
 
 - 🌱 I’m currently learning **Advance Data structure , Algorithm**
 
-- 👯 I’m looking to collaborate on [Edufixup](https://edufixup.com/)
+- 👯 I’m looking to collaborate on [Edufixup](https://edufixup.com/ ) [Nirog health Pluse ] (https://www.niroghealthplus.com/), [Caresee](http://careseebd.com/) [Renix ltd]([http://careseebd.com/](https://www.renixlaboratories.com.bd/)
 
 - 👨‍💻 All of my projects are available at [https://amir-faysal.com/](https://amir-faysal.com/)
 
