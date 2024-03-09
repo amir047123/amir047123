@@ -40,7 +40,7 @@
 - Conducted unit testing to ensure code quality and identify and fix bugs.
 - Adapted to evolving project requirements and technological changes.
 
-<h3 align="left">PROFESSIONAL PROJECT EXPERIENCE</h3>
+## PROFESSIONAL PROJECT EXPERIENCE
 
 <h4>CARESEE BD | GITHUB (PRIVATE, PRODUCTION) August, 2023</h4>
 <p>
