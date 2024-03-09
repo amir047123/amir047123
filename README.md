@@ -114,7 +114,8 @@ Databases:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20"/> MySQL, 
 Firebase.
 </p>
-<h3 align="left">ACHIEVEMENT</h3>
+
+## ACHIEVEMENT
 
 <p>
 NWU CSE FEST 2023 WEB PROJECT SHOWCASE - CHAMPION | CARESEE BD <br>
