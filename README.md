@@ -13,6 +13,32 @@
 
 - ⚡ Fun fact **I think I am Funny!** But sometimes the code disagrees.
 
+## Professional Experience
+
+### Product Manager at ThinkyStorm, Dhaka, BD (2021 - 2023)
+
+- Led efforts to improve existing products based on customer feedback and evaluations.
+- Facilitated collaboration meetings to develop processes for new product creation.
+- Successfully managed product requirements and set realistic development timelines.
+- Conducted usability testing with UX research teams to enhance product experience.
+- Identified and utilized product successes and failures to inform future development goals.
+- Developed comprehensive project plans, managed cross-functional teams, and ensured effective communication with stakeholders.
+- Tracked project milestones and timelines, and evaluated project performance for continuous improvement.
+
+### Project Manager at RENIX Lab Ltd, Narayanganj, BD (2023 - 2024)
+
+- Collaborated with the team to contribute to the development of web solutions.
+- Sought guidance from senior developers to address challenging problems.
+- Conducted unit testing to maintain code quality and resolve bugs.
+- Adapted to evolving project requirements and technological changes.
+
+### Junior Developer at LSKIT, Khulna, BD (2021)
+
+- Contributed to the development of web solutions within a collaborative team environment.
+- Sought guidance from senior developers to resolve complex issues.
+- Conducted unit testing to ensure code quality and identify and fix bugs.
+- Adapted to evolving project requirements and technological changes.
+
 <h3 align="left">PROFESSIONAL PROJECT EXPERIENCE</h3>
 
 <h4>CARESEE BD | GITHUB (PRIVATE, PRODUCTION) August, 2023</h4>
