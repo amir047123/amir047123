@@ -23,6 +23,10 @@ After Refractive Surgeries.<br>
 Technologies: React-Js, Redux, JavaScript, Canvas, Tailwind, Node-JS, Express, Mongoose, MongoDB<br>
 Payment Gateway: Stripe.<br>
 WEBSITE: <a href="http://careseebd.com/">Caresee BD</a>
+  
+<p>
+For more information, you can watch the TV coverage on <a href="https://www.facebook.com/watch/?v=1034586310986487">Facebook</a>.
+</p>
 </p>
 
 <h4>RENIX LABORATORIES LTD.| GITHUB (PRIVATE, PRODUCTION) July, 2023</h4>
