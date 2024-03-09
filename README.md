@@ -25,7 +25,7 @@ Payment Gateway: Stripe.<br>
 WEBSITE: <a href="http://careseebd.com/">Caresee BD</a>
   
 <p>
-For more information, you can watch the TV coverage on <a href="https://www.facebook.com/watch/?v=1034586310986487">Facebook</a>.
+For more information, you can watch the somoy TV coverage on <a href="https://www.facebook.com/watch/?v=1034586310986487">Facebook</a>.
 </p>
 </p>
 
@@ -96,7 +96,7 @@ WEBSITE: <a href="http://careseebd.com/">Caresee BD</a>
 </p>
 
 <p>
-For more information, you can watch the TV coverage on <a href="https://www.facebook.com/watch/?v=1034586310986487">Facebook</a>.
+For more information, you can watch the somoy TV coverage on <a href="https://www.facebook.com/watch/?v=1034586310986487">Facebook</a>.
 </p>
 
 
