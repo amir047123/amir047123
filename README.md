@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I think I am Funny !**
 <h3 align="left">PROFESSIONAL PROJECT EXPERIENCE</h3>
 
-<h4>CARESEE BD | WEBSITE | GITHUB (PRIVATE, PRODUCTION) August, 2023</h4>
+<h4>CARESEE BD | GITHUB (PRIVATE, PRODUCTION) August, 2023</h4>
 <p>
 A React-based Vision Therapy Web Application<br>
 Amblyopia or ‘Lazy Eye’ therapy.<br>
@@ -22,37 +22,37 @@ Computer Vision Syndrome.<br>
 After Refractive Surgeries.<br>
 Technologies: React-Js, Redux, JavaScript, Canvas, Tailwind, Node-JS, Express, Mongoose, MongoDB<br>
 Payment Gateway: Stripe.<br>
-WEBSITE: <a href="http://careseebd.com/">http://careseebd.com/</a>
+WEBSITE: <a href="http://careseebd.com/">Caresee BD</a>
 </p>
 
-<h4>RENIX LABORATORIES LT D. | WEBSITE | GITHUB (PRIVATE, PRODUCTION) July, 2023</h4>
+<h4>RENIX LABORATORIES LTD.| GITHUB (PRIVATE, PRODUCTION) July, 2023</h4>
 <p>
 A React-based E-commerce Platform.<br>
 Provide Effective Health-care Solutions.<br>
 In addition to Manufacturing Herbal Medicine. Renix Unani Laboratories Ltd. is dedicated to providing customers with safe, effective & high-quality health-care solutions.<br>
 Technologies: React-JS, Redux, JavaScript, Tailwind, Node-JS, Express, Mongoose, MongoDB<br>
 Payment Gateway: SSLCommerz.<br>
-WEBSITE: <a href="https://www.renixlaboratories.com.bd/">https://www.renixlaboratories.com.bd/</a>
+WEBSITE: <a href="https://www.renixlaboratories.com.bd/">Renix laboratories LTD</a>
 </p>
 
-<h4>EDU FIXUP | WEBSITE | GITHUB (PRIVATE, PRODUCTION) November, 2022</h4>
+<h4>EDU FIXUP | GITHUB (PRIVATE, PRODUCTION) November, 2022</h4>
 <p>
 A React-based Learning Platform.<br>
 User-friendly platform for Students, Teachers, and lifelong learners.<br>
 This platform provides various resources including Lesson plans, Study Materials & Professional Guidance<br>
 Technologies: React-Js, Redux, JavaScript, Canvas, Tailwind, Node-JS, Express, Mongoose, MongoDB<br>
 Payment Gateway: Surjo Pay.<br>
-WEBSITE: <a href="https://edufixup.com/">https://edufixup.com/</a>
+WEBSITE: <a href="https://edufixup.com/">Edufixup</a>
 </p>
 
-<h4>NIROG HEALTH PLUS | WEBSITE | GITHUB (PRIVATE, PRODUCTION) October, 2023</h4>
+<h4>NIROG HEALTH PLUS | GITHUB (PRIVATE, PRODUCTION) October, 2023</h4>
 <p>
 A React-based E-Commerce Platform.<br>
 Provide Effective Health-care Solutions including OTC Medicine, Non-OTC Medicine & Prescription Upload.<br>
 This platform provides various resources including Seller, Buyer & Administration.<br>
 Technologies: React-Js, JavaScript, Tailwind, Node-JS, Express, Mongoose, MongoDB<br>
 Payment Gateway: SSLCommerz.<br>
-WEBSITE: <a href="https://niroghealthplus.com/">https://niroghealthplus.com/</a>
+WEBSITE: <a href="https://niroghealthplus.com/">Nirog Health Plus</a>
 </p>
 
 
@@ -82,6 +82,20 @@ Databases:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="20" height="20"/> MySQL, 
 Firebase.
 </p>
+<h3 align="left">ACHIEVEMENT</h3>
+
+<p>
+NWU CSE FEST 2023 WEB PROJECT SHOWCASE - CHAMPION | CARESEE BD <br>
+Authorized by North Western University, Khulna<br>
+November 08, 2023<br>
+WEBSITE: <a href="http://careseebd.com/">Caresee BD</a>
+</p>
+
+<p>
+For more information, you can watch the TV coverage on <a href="https://www.facebook.com/watch/?v=1034586310986487">Facebook</a>.
+</p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
