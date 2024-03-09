@@ -89,7 +89,7 @@ WEBSITE: <a href="https://niroghealthplus.com/">Nirog Health Plus</a>
 
 
 
-<h3 align="left">MY SKILLS & EXPERTISE</h3>
+## MY SKILLS & EXPERTISE
 <h4 align="left">TECHNICAL SKILLS</h4>
 <p align="left">
 Languages: 
@@ -129,7 +129,7 @@ For more information, you can watch the somoy TV coverage on <a href="https://ww
 
 
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/amir-faysal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amir-faysal/" height="30" width="40" /></a>
 <a href="https://fb.com/amirfaysal047/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/amirfaysal047/" height="30" width="40" /></a>
