@@ -11,7 +11,7 @@
 ## 🚀 Skills & Technologies
 
 ### 🔧 **Frontend:**
-- **Languages**: JavaScript, TypeScript
+- **Languages**: JavaScript, TypeScript , C ,C++ , Java
 - **Frameworks**: React.js, Next.js
 - **Styling**: SCSS, TailwindCSS, Styled Components, Material UI, shadcn/ui
 
@@ -21,7 +21,7 @@
 - **Databases**: MongoDB, Firebase, PostgreSQL, Prisma
 
 ### ☁️ **Cloud & Tools:**
-- **Cloud Platforms**: AWS
+- **Cloud Platforms**: AWS , Digital Ocean
 - **Tools**: Git, GitHub, Chrome DevTools, Postman, Jira, Slack
 
 ---
