@@ -1,4 +1,4 @@
-# 🖥️ Amir Faysal - Full Stack Web Developer
+# 🖥️ Amir Faysal - Software Engineer
 
 📍 **Location:** Khulna, Bangladesh  
 📧 **Email:** [amirfaysal0471@gmail.com](mailto:amirfaysal0471@gmail.com)  
